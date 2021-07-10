@@ -1,4 +1,7 @@
-![image](https://media.discordapp.net/attachments/586868366321516591/783050728968421426/image0-17.gif)
+Hello I do stuff... I think?
+
+anyways heres my discord
+![image](https://util.bruhmomentlol.repl.co/status/296776625432035328)
 
 <!--
 **Commandtechno/Commandtechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
