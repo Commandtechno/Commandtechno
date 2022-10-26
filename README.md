@@ -1,4 +1,4 @@
-[![avatar](assets/avatar.gif)](https://commandtechno.com)
+[![avatar](https://commandtechno.com/assets/avatar.gif)](https://commandtechno.com)
 
 # Commandtechno
 
