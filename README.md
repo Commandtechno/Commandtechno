@@ -1,8 +1,10 @@
-Hello I do stuff... I think?
+[![avatar](assets/avatar.gif)](https://commandtechno.com)
 
-anyways heres my discord
+# Commandtechno
 
-![image](https://util.bruhmomentlol.repl.co/status/296776625432035328)
+👋 Hello there! I'm a developer and graphics designer. I'm interested in all things tech!
+
+Past work, skills, socials, blog, and contact information are on my portfolio: https://commandtechno.com
 
 <!--
 **Commandtechno/Commandtechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
